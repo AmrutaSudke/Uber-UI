@@ -1,5 +1,6 @@
 # Uber-UI
 Uber website is created with the help of HTML and CSS
 
-![Uber](https://user-images.githubusercontent.com/43902199/138719248-aed151bf-5834-449d-b1b3-1bc4c5d0b2eb.png)
 
+
+![Uber Website](https://user-images.githubusercontent.com/43902199/138721264-867e9f1d-03f5-4594-8bc4-d72cccdf5a4e.png)
