@@ -1,0 +1,108 @@
+#link {
+    color: black;
+}
+
+/* CSS link color */
+#a {
+    color: white;
+}
+.navbar-nav{
+    color: white;
+}
+
+.banner{
+    /* margin-top: 10px; */
+    margin-bottom: 10px;
+   
+    position: absolute;
+   
+}
+
+.jumbotron{
+    position:relative;
+ 
+
+   
+    /* position:relative; */
+    /* overflow:visible; */
+   
+    padding: 17px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding-right: 0px;
+   
+   
+    
+}
+.banner1{
+    margin-bottom: 10px;
+  
+}
+.div1{
+    background-color: white;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 30px;
+    /* margin-left: 70px; */
+    border: 1px solid rgb(199, 193, 193);
+    margin-bottom: 30px;
+   
+    
+}
+
+.div2{
+    background-color: white;
+    padding: 37px;
+    margin: 0 auto;
+    margin-top: 30px;
+   
+    
+    margin-bottom: 60px;
+}
+.box1{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 20px;
+
+}
+
+/* .img1{
+    position: relative;
+
+    animation: mymove 6s ;
+
+}
+  #div1 {
+    
+      animation-timing-function:ease-in-out;}
+  
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 300px;}
+  }
+   */
+   @media only screen and (max-width: 600px) {
+    .div1{
+        /* margin-left: 0px; */
+        margin: 17px 9px;
+        padding: 19px;
+    }
+    .row1{
+    margin-right: 5px;
+    margin-left: -13px;
+    }
+    .div2{
+        margin: 0 18px;
+    }
+  }
+  
+   /* @media(min-width: 420px) and (max-width: 760px){
+    .div1{margin-left: 0px;}
+    @media (min-width: 760px) {  
+        .div1{margin-left: 80px;} 
+}
+
+} */
